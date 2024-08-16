@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KikiKata", "KikiKata\KikiKata.csproj", "{A908D27B-0531-492E-8B69-BD1C5D0CF166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KikiKataTest", "KikiKataTest\KikiKataTest.csproj", "{50C8465E-BF21-4215-8512-6FF307B4126D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A908D27B-0531-492E-8B69-BD1C5D0CF166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A908D27B-0531-492E-8B69-BD1C5D0CF166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A908D27B-0531-492E-8B69-BD1C5D0CF166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A908D27B-0531-492E-8B69-BD1C5D0CF166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C8465E-BF21-4215-8512-6FF307B4126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C8465E-BF21-4215-8512-6FF307B4126D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C8465E-BF21-4215-8512-6FF307B4126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C8465E-BF21-4215-8512-6FF307B4126D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4B2F1D-A16E-436D-8F40-744FEAA8A564}
+	EndGlobalSection
+EndGlobal
